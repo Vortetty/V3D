@@ -25,7 +25,6 @@ there is a repeater branch, it has a custom repeater that you can use if you wan
 - doors and trapdoors
 - accurate piston heads
 - repeater and comparator (gonna be a bit these are massive models, so many blockstates)
-- lever
 - normal/powered/detector/activator rail
 - tripwire
 
@@ -56,3 +55,4 @@ there is a repeater branch, it has a custom repeater that you can use if you wan
 - torch
 - lanterns
 - redstone lamp
+- lever
